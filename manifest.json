@@ -1,8 +1,8 @@
 {
     "name": "Wlog",
     "short_name": "Wlog",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "https://blog.wmza.cn/",
+    "start_url": "https://blog.wmza.cn/",
     "icons": [
         {
             "src": "https://blog.wmza.cn/wsimg/android-chrome-36x36.png",
